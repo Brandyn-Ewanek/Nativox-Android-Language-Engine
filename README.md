@@ -38,9 +38,6 @@ The app leverages the syntactic similarity between English, Spanish, Portuguese,
 * **State Management:** `remember`, `mutableStateOf`, `LaunchedEffect`
 * **Tools:** Android Studio, Gradle
 
-## 📄 Documentation
-* **[Read the Design Prototype (PDF)](reports/# Nativox: High-Performance Language Learning Engine
-
 **A native Android application designed for rapid language acquisition using "Sentence Drills" and real-time audio visualization.**
 
 ## 📱 Project Overview
