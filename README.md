@@ -92,13 +92,15 @@ The app leverages the syntactic similarity between English, Spanish, Portuguese,
     * `LibraryScreen.kt`: Vocabulary management system.
 
 ## 📸 App Interface
-| **Home Dashboard** | **Practice Engine** | **Vocabulary Library** |
+| **Home Dashboard** | **Drill Selecton** | **Situation Selection** |
 |:---:|:---:|:---:|
 | <img src="assets/Nativox_Home.jpg" width="250"> | <img src="assets/Nativox_Drill_Selection.jpg" width="250"> | <img src="assets/Nativox_Drill_Vibe_Selection.jpg" width="250"> |
 | *Language Selection & Progress* | *Drill Selecton* | *Situation Selection* | 
 
-| <img src="assets/Nativox_Drill_Vibe_Practice.jpg" width="250"> |
-| *Wave Form Practice* |
+| **Wave Form Practice** | **Word Library** |
+|:---:|:---:|
+| <img src="assets/Nativox_Drill_Vibe_Practice.jpg" width="250"> | <img src="assets/Nativox_Word_Library.jpg" width="250"> |
+| *Wave Form Practice* | *Word Library* |
 
 ## 👤 Author
 **Brandyn Ewanek**
