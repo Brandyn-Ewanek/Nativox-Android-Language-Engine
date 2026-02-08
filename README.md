@@ -1,3 +1,6 @@
+## ⚖️ License
+**All Rights Reserved.** This code is for portfolio demonstration purposes only. Commercial use, redistribution, or modification is strictly prohibited without written consent from the author.
+
 # Nativox-Android-Language-Engine
 Native Android language learning engine built with Jetpack Compose, Canvas Waveforms, and MVVM architecture.
 # Nativox: Practical Language Learning Engine
