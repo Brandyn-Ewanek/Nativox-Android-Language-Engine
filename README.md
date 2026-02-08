@@ -91,6 +91,14 @@ The app leverages the syntactic similarity between English, Spanish, Portuguese,
     * `HomeScreen.kt`: Dashboard with "Ad Space" placeholder logic.
     * `LibraryScreen.kt`: Vocabulary management system.
 
+## 📸 App Interface
+| **Home Dashboard** | **Practice Engine** | **Vocabulary Library** |
+|:---:|:---:|:---:|
+| <img src="assets/Nativox_Home.png" width="250"> | <img src="assets/Nativox_Drill_Selection.png" width="250"> | <img src="assets/Nativox_Drill_Vibe_Selection.png" width="250"> | <img src="assets/Nativox_Drill_Vibe_Practice.png" width="250"> |
+| *Language Selection & Progress* | *Drill Selecton* | *Situation Selection* | *Wave Form Practice* |
+
+  
+
 ## 👤 Author
 **Brandyn Ewanek**
 * [LinkedIn](https://www.linkedin.com/in/brandyn-ewanek-9733873b/)
