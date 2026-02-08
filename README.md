@@ -94,4 +94,3 @@ The app leverages the syntactic similarity between English, Spanish, Portuguese,
 ## 👤 Author
 **Brandyn Ewanek**
 * [LinkedIn](https://www.linkedin.com/in/brandyn-ewanek-9733873b/)
-* [Portfolio](https://github.com/Brandyn-Ewanek/)
