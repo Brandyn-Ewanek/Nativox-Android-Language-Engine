@@ -94,10 +94,11 @@ The app leverages the syntactic similarity between English, Spanish, Portuguese,
 ## 📸 App Interface
 | **Home Dashboard** | **Practice Engine** | **Vocabulary Library** |
 |:---:|:---:|:---:|
-| <img src="assets/Nativox_Home.jpg" width="250"> | <img src="assets/Nativox_Drill_Selection.jpg" width="250"> | <img src="assets/Nativox_Drill_Vibe_Selection.jpg" width="250"> | <img src="assets/Nativox_Drill_Vibe_Practice.jpg" width="250"> |
-| *Language Selection & Progress* | *Drill Selecton* | *Situation Selection* | *Wave Form Practice* |
+| <img src="assets/Nativox_Home.jpg" width="250"> | <img src="assets/Nativox_Drill_Selection.jpg" width="250"> | <img src="assets/Nativox_Drill_Vibe_Selection.jpg" width="250"> |
+| *Language Selection & Progress* | *Drill Selecton* | *Situation Selection* | 
 
-  
+| <img src="assets/Nativox_Drill_Vibe_Practice.jpg" width="250"> |
+| *Wave Form Practice* |
 
 ## 👤 Author
 **Brandyn Ewanek**
